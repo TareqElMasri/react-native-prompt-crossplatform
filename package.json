@@ -31,5 +31,9 @@
   "bugs": {
     "url": "https://github.com/Ramiah-Viknesh/react-native-prompt-crossplatform/issues"
   },
-  "homepage": "https://github.com/Ramiah-Viknesh/react-native-prompt-crossplatform#readme"
+  "homepage": "https://github.com/Ramiah-Viknesh/react-native-prompt-crossplatform#readme",
+  "dependencies": {
+    "multiline": "^1.0.2",
+    "react-native-prompt-crossplatform": "git+https://github.com/TareqElMasri/react-native-prompt-crossplatform"
+  }
 }

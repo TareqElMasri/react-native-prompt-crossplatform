@@ -41,7 +41,7 @@ export default StyleSheet.create({
   },
   promptInput: {
     width: '90%',
-    height: 50,
+    height: 150,
     fontSize: 20,
     padding: 10,
     paddingBottom: 15,
